@@ -1,0 +1,7 @@
+.app{
+    border: 1px solid #222;
+    margin: 20px;
+    padding: 20px;
+    height: 60vh;
+    border-radius: 12px;
+}
