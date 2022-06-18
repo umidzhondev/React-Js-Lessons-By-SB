@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../src/style/styles.css";
 import TableList from "./components/TableList";
-import MyInput from "./components/UI/button/Input/MyInput";
+import MyInput from "./components/UI/Input/MyInput";
 import MyButton from "./components/UI/button/MyButton";
 
 function App() {
